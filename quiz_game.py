@@ -6,15 +6,17 @@ class QuizGame:
             "Quelle est la capitale de l'Espagne ?",
             "Quelle est la plus grosse planète du système solaire ?",
             "Qui a écrit 'Les Misérables' ?",
+            "Quel est le plus long fleuve du monde ?",
         ]
 
         self.answers = [
             ["Madrid", "Londres", "Berlin"],
             ["Mars", "Jupiter", "Pluton"],
             ["Shakespeare", "Victor Hugo", "Zola"],
+            ["Nil", "Mississippi", "Amazone"],
         ]
 
-        self.correct_answers = [0, 1, 1]  
+        self.correct_answers = [0, 1, 1, 2]  
 
         self.score = 0
 

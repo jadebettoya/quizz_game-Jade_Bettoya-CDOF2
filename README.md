@@ -21,3 +21,4 @@ To run the Quiz Game, follow these simple steps:
 
 You can contribute to this project by adding as much questions as you want ! 
 However, don't forget to check that you put the correct answer.
+Thank you in advance !
