@@ -38,3 +38,5 @@ This project and everyone participating in it is governed by the Quiz Game Code 
 ## Final Words
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Contact me at jade.bettoya@gmail.com
